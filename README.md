@@ -173,9 +173,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
-##OFF state:
+
+## OFF state:
+
 ![image](https://user-images.githubusercontent.com/94165326/227257150-eae38fd2-e52d-45ec-ab81-5351ca1ba41f.png)
-##ON state:
+
+## ON state:
+
 ![image](https://user-images.githubusercontent.com/94165326/227257273-e6566b6e-6ed4-4a2d-95b3-a27197217e3f.png)
 
 
